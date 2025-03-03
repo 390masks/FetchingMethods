@@ -1,3 +1,5 @@
+// Using fetch() (Native JavaScript)
+
 import React, { useEffect, useState } from 'react'
 
 const App = () => {
